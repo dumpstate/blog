@@ -1,0 +1,21 @@
+highlight_color: '#55acee'
+social:
+  github: dumpstate
+  #bitbucket: ???
+  #hacker_news: ???
+  #stackexchange: ???
+  stackoverflow: 1768993
+  twitter: albertSadowski
+  #facebook: ???
+  #tumblr: ???
+  linkedin: albertsadowski
+  #gplus: ???
+  gravatar: 747ee25bb0a9a41b6b1740e6b6ecd93f
+  #flickr: ???
+
+name: Albert Sadowski
+email: albert.sadowski@gmail.com
+tagline: ""
+google_analytics_key: UA-xxxx-x
+show_disclaimer: false
+show_atom_feed: false
